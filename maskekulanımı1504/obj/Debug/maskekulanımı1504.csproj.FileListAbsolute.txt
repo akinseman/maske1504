@@ -1,0 +1,10 @@
+C:\Users\PC0\source\repos\maskekulanımı1504\maskekulanımı1504\bin\Debug\maskekulanımı1504.exe.config
+C:\Users\PC0\source\repos\maskekulanımı1504\maskekulanımı1504\bin\Debug\maskekulanımı1504.exe
+C:\Users\PC0\source\repos\maskekulanımı1504\maskekulanımı1504\bin\Debug\maskekulanımı1504.pdb
+C:\Users\PC0\source\repos\maskekulanımı1504\maskekulanımı1504\obj\Debug\maskekulanımı1504.csproj.AssemblyReference.cache
+C:\Users\PC0\source\repos\maskekulanımı1504\maskekulanımı1504\obj\Debug\maskekulanımı1504.Form1.resources
+C:\Users\PC0\source\repos\maskekulanımı1504\maskekulanımı1504\obj\Debug\maskekulanımı1504.Properties.Resources.resources
+C:\Users\PC0\source\repos\maskekulanımı1504\maskekulanımı1504\obj\Debug\maskekulanımı1504.csproj.GenerateResource.cache
+C:\Users\PC0\source\repos\maskekulanımı1504\maskekulanımı1504\obj\Debug\maskekulanımı1504.csproj.CoreCompileInputs.cache
+C:\Users\PC0\source\repos\maskekulanımı1504\maskekulanımı1504\obj\Debug\maskekulanımı1504.exe
+C:\Users\PC0\source\repos\maskekulanımı1504\maskekulanımı1504\obj\Debug\maskekulanımı1504.pdb
